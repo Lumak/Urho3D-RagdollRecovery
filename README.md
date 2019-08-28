@@ -8,7 +8,6 @@ Ragdoll recovery sample.
 
 Screenshot
 -----------------------------------------------------------------------------------
-![alt tag](https://github.com/Lumak/Urho3D-Offroad-Vehicle/blob/master/screenshot/offroadpic.jpg)
 
 To Build
 -----------------------------------------------------------------------------------
